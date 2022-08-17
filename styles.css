@@ -58,3 +58,13 @@
   font-weight: bolder;
   text-transform: uppercase;
 }
+
+.subtitle {
+  font-family: 'Montserrat', sans-serif !important;
+  font-weight: bold;
+}
+
+.text {
+  color: #252525;
+  text-align: justify;
+}
