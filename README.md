@@ -29,8 +29,8 @@ The following technologies were used for the development of the template:
 ### Design
 
 ![LandingPage](img/LandingPage.jpg)
-![Products]img/ProductsPage.jpg)
-![Products]img/CatProducts.jpg)
-![Products]img/Ingredients.jpg)
+![Products](img/ProductsPage.jpg)
+![Products](img/CatProducts.jpg)
+![Products](img/Ingredients.jpg)
 
 Developed by @github/eduardodavidmm
